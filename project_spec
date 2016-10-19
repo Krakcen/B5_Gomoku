@@ -1,0 +1,19 @@
+Technos:
+
+Graphique:
+C++ (SFML)
+
+IA:
+LUA
+
+
+Parties:
+
+- Graphique
+  - Menu Principal + HUD
+  - Interface de Jeu
+  - Implémentation Physique + 3D
+
+- IA Arbitre
+
+- IA Player
