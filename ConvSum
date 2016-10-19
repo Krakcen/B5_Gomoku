@@ -1,1 +1,29 @@
-.
+Technos Possibles:
+
+Graphique:
+
+- Löve2D  (LUA)
+- SFML    (C++)
+- ThreeJS (JS)
+
+
+IA:
+
+- JS
+- C++
+- LUA
+- Python
+- JAVA
+
+
+JS
+(web, 3d, performance)
+
+C++
+(app desktop, 3d ou 2d, performance)
+
+LUA
+(excellent pour programmer des ia, 2d, rapide, utilisation facile, polyvalent, performance)
+
+Python
+(adapté, performance)
